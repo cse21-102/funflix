@@ -45,8 +45,8 @@ body {
 }
 
 .city {
-	height: 700px;
-	width: 850px;
+	height: auto;
+	width: auto;
 	margin: auto;
 	display: block;
 	overflow: hidden;
@@ -70,6 +70,7 @@ body {
 }
 img {
   border: 5px solid #555;
+  width: 150px
 }
 .container {
   position: relative;
@@ -82,7 +83,6 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.
 {
 	display : flex;
 	background-color : lightgrey;

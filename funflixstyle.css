@@ -29,6 +29,9 @@
 	
 }
 
+.header .icon {
+  display: none;
+}
 .searchbar {
 	float : right;
 }

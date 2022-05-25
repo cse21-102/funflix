@@ -28,7 +28,7 @@
 	margin: auto;
 	
 }
-}
+
 .searchbar {
 	float : right;
 }
@@ -92,5 +92,6 @@ a:visited {
  color: white
 
 }
-
-
+a:hover {
+	color: white;
+}
